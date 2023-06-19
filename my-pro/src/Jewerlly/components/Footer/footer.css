@@ -1,0 +1,35 @@
+.title__number{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.buttons__number{
+    margin-left: 150px;
+}
+h1{
+    margin-left: 100px;
+}
+.ring{
+    margin-right: 40px;
+    width: 150px;
+}
+.ring__text{
+    width: 150px;
+}
+.view__one{
+    margin-left: 110px;
+}
+.view__two{
+    margin-top: -255px;
+    margin-left: 310px;
+}
+.ring1{
+    margin-left: 100px; 
+    margin-right: 40px;
+    width: 150px;
+    width: calc(100% -10px);
+}
+h2{
+    margin-left: 100px;
+}

@@ -1,0 +1,927 @@
+.title__jewerlly{
+    display: flex;
+    height: 350px;
+    background-color: rgb(245, 227, 223);
+}
+.title__text{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 150px;
+    font-size: 35px;
+}
+.title__products{
+    color: grey;
+    margin-left: -150px;
+    width: 400px;
+    margin-top: 125px;
+}
+.title__img1, .title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+    margin-left: 10px;
+    margin-top: 110px;
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+@media (max-width:2222px) {
+    .title__jewerlly{
+        height: 300px;
+    }
+    .title__products{
+        width: 255px;
+    }
+    .title__img1{
+        margin-left: 200px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 200px;
+        height: 200px;
+    }
+}
+@media (max-width:1920){
+    .title__jewerlly{
+        width: 100%;
+    }
+}
+@media (max-width:1840px) {
+    .title__jewerlly{
+        height: 300px;
+    }
+    .title__products{
+        font-size: 25px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 100px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 200px;
+        height: 200px;
+    }
+}
+@media (max-width:1700px) {
+    .title__jewerlly{
+        height: 300px;
+    }
+    .title__products{
+        font-size: 23px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 100px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 180px;
+        height: 180px;
+    }
+    .title__img6{
+        margin-right: 80px;
+    }
+}
+@media (max-width:1650px) {
+    .title__jewerlly{
+        height: 300px;
+    }
+    .title__products{
+        font-size: 23px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 80px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 180px;
+        height: 180px;
+    }
+    .title__img6{
+        margin-right: 80px;
+    }
+}
+@media (max-width:1630px) {
+    .title__jewerlly{
+        height: 300px;
+    }
+    .title__products{
+        font-size: 23px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 70px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 180px;
+        height: 180px;
+    }
+    .title__img6{
+        margin-right: 80px;
+    }
+}
+@media (max-width:1620px) {
+    .title__jewerlly{
+        height: 300px;
+    }
+    .title__products{
+        font-size: 23px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 170px;
+        height: 170px;
+    }
+    .title__img6{
+        margin-right: 80px;
+    }
+}
+@media (max-width:1550px) {
+    .title__jewerlly{
+        height: 300px;
+    }
+    .title__products{
+        font-size: 23px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 150px;
+        height: 150px;
+    }
+    .title__img6{
+        margin-right: 80px;
+    }
+}
+@media (max-width:1432px) {
+    .title__jewerlly{
+        height: 300px;
+    }
+    .title__products{
+        font-size: 20px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 160px;
+        height: 160px;
+    }
+    .title__img6{
+        margin-right: 110px;
+    }
+}
+@media (max-width:1422px) {
+    .title__jewerlly{
+        height: 300px;
+    }
+    .title__products{
+        font-size: 20px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 150px;
+        height: 150px;
+    }
+    .title__img6{
+        margin-right: 110px;
+    }
+}
+@media (max-width:1355px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 300px;
+    }
+    .title__products{
+        font-size: 20px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 150px;
+        height: 150px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}
+@media (max-width:1345px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 300px;
+    }
+    .title__products{
+        font-size: 20px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 150px;
+        height: 150px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}
+@media (max-width:1335px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 300px;
+    }
+    .title__products{
+        font-size: 20px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 130px;
+        height: 130px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}
+@media (max-width:1268px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 300px;
+    }
+    .title__products{
+        font-size: 20px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 130px;
+        height: 130px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}
+@media (max-width:1238px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 300px;
+    }
+    .title__products{
+        font-size: 20px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 120px;
+        height: 120px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}
+@media (max-width:1194px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 300px;
+    }
+    .title__products{
+        font-size: 20px;
+        width: 405px;
+    }
+    .title__img1{
+        margin-left: 60px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 120px;
+        height: 120px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}
+@media (max-width:1124px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 30px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 110px;
+        height: 110px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}
+@media (max-width:1119px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 30px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 110px;
+        height: 110px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:1119px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 30px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 110px;
+        height: 110px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:1118px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 30px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 140px;
+        height: 140px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:1117px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 20px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 140px;
+        height: 140px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}  
+@media (max-width:1110px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 110px;
+        height: 110px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}       
+@media (max-width:1105px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:1015px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 110px;
+        height: 110px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}       
+@media (max-width:1014px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (width:919px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 110px;
+        height: 110px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (width:919px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 110px;
+        height: 110px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:900px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:889px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:850px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+} 
+@media (max-width:846px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}     
+@media (max-width:813px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:804px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:773px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:765px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 250px;
+    }
+    .title__products{
+        font-size: 16px;
+        width: 605px;
+    }
+    .title__img1{
+        margin-left: 50px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 90px;
+        height: 90px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:730px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 240px;
+    }
+    .title__products{
+        font-size: 10px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 70px;
+        height: 70px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:685px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 240px;
+    }
+    .title__products{
+        font-size: 10px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 70px;
+        height: 70px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}  
+@media (max-width:635px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 240px;
+    }
+    .title__products{
+        font-size: 10px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 70px;
+        height: 70px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}    
+@media (max-width:615px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 240px;
+    }
+    .title__products{
+        font-size: 10px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 70px;
+        height: 70px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:550px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 220px;
+    }
+    .title__products{
+        font-size: 10px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 50px;
+        height: 50px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:523px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 220px;
+    }
+    .title__products{
+        font-size: 10px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 50px;
+        height: 50px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:500px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 200px;
+    }
+    .title__products{
+        font-size: 7px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 50px;
+        height: 50px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:470px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 190px;
+    }
+    .title__products{
+        font-size: 7px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 50px;
+        height: 50px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:460px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 180px;
+    }
+    .title__products{
+        font-size: 7px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 40px;
+        height: 40px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:400px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 190px;
+    }
+    .title__products{
+        font-size: 7px;
+        height: 100px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 30px;
+        height: 30px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
+@media (max-width:360px) {
+    .title__jewerlly{
+        width: 100%;
+        height: 180px;
+    }
+    .title__products{
+        font-size: 7px;
+        height: 100px;
+        width: 705px;
+    }
+    .title__img1{
+        margin-left: 40px;
+    }
+    .title__img1,.title__img2,.title__img3,.title__img4,.title__img5,.title__img6{
+        width: 20px;
+        height: 30px;
+        margin-top: 100px;
+    }
+    .title__img6{
+        margin-right: 1990px;
+    }
+}   
